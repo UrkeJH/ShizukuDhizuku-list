@@ -6,7 +6,7 @@
 # Shizuku下载地址
 | 版本 | github网址 |
 | :-----------: | :-----------: |
-| rikka | [地址](https://github.com/RikkaApps/Shizuku) |
+| Rikka | [地址](https://github.com/RikkaApps/Shizuku) |
 | yangFenTuoZi(改版) | [地址](https://github.com/yangFenTuoZi/Shizuku) |
 
 
