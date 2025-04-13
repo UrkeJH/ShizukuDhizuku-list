@@ -2,11 +2,13 @@
 只收集开源软件
 
 
+
 ### Shizuku下载地址
 | 版本 | github网址 |
 | :-----------: | :-----------: |
 | rikka | [地址](https://github.com/RikkaApps/Shizuku) |
 | yangFenTuoZi(改版) | [地址](https://github.com/yangFenTuoZi/Shizuku) |
+
 
 ### 支持软件
 | 名称 | 说明 | github网址 |
