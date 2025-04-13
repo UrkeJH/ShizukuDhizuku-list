@@ -11,7 +11,7 @@
 
 
 # 支持软件
-| 名称 | 说明 | github网址 |
+| 名称 | 介绍 | github网址 |
 | :-----------: | :-----------: | :-----------: |
 | lspatch(JingMatrix) | LSPosed框架的免root实现，通过在目标APK中插入索引等来集成Xposed API | [地址](https://github.com/JingMatrix/LSPatch) |
 | 雹 | 一款用于冻结 Android 应用的自由软件 | [地址](https://github.com/aistra0528/Hail) |
