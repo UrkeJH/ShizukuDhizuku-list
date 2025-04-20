@@ -24,3 +24,4 @@
 | SD Maid SE | 是一个专门用于维护的Android文件管理工具。其核心目的是释放空间和删除不需要的数据 | [地址](https://github.com/d4rken-org/sdmaid-se) |
 | gkd | 基于 无障碍 + 高级选择器 + 订阅规则 的自定义屏幕点击 APP | [地址](https://github.com/gkd-kit/gkd) |
 | Island | 隔离和克隆应用程序以保护隐私和并行运行 | [地址](https://github.com/oasisfeng/island) |
+| Mihon | Mihon应用功能齐全的读者，发现和阅读漫画，网络漫画，漫画，和更多-比以往任何时候都更容易在您的安卓设备上。 | [地址](https://github.com/mihonapp/mihon) |
