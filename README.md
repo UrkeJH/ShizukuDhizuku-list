@@ -20,7 +20,7 @@
 | Dhizuku | 参考Shizuku的设计思想，分享 DeviceOwner (设备所有者) 权限给其余应用 | [地址](https://github.com/iamr0s/Dhizuku) |
 | OwnDroid | 使用安卓Device owner特权管理你的设备 | [地址](https://github.com/BinTianqi/OwnDroid) |
 | InstallerX | 一款应用安装程序 | [地址](https://github.com/iamr0s/InstallerX) |
-| Blocker | Blocker是一款操作Android应用程序四大组件的程序。 | [地址](https://github.com/lihenggui/blocker) |
+| Blocker | Blocker是一款操作Android应用程序四大组件的程序 | [地址](https://github.com/lihenggui/blocker) |
 | SD Maid SE | 是一个专门用于维护的Android文件管理工具。其核心目的是释放空间和删除不需要的数据 | [地址](https://github.com/d4rken-org/sdmaid-se) |
 | gkd | 基于 无障碍 + 高级选择器 + 订阅规则 的自定义屏幕点击 APP | [地址](https://github.com/gkd-kit/gkd) |
 | Island | 隔离和克隆应用程序以保护隐私和并行运行 | [地址](https://github.com/oasisfeng/island) |
