@@ -27,3 +27,4 @@
 | Mihon | Mihon应用功能齐全的读者，发现和阅读漫画，网络漫画，漫画，和更多-比以往任何时候都更容易在您的安卓设备上 | [地址](https://github.com/mihonapp/mihon) |
 | Canta | 在没有root权限的情况下卸载任何Android应用 | [地址](https://github.com/samolego/Canta) |
 | Amarok-Hider | Amarok 是一款轻量级隐私保护工具，一键隐藏你的隐私文件和应用 | [地址](https://github.com/deltazefiro/Amarok-Hider) |
+| Obtainium | 直接从源代码获取Android应用程序更新 | [地址](https://github.com/ImranR98/Obtainium) |
