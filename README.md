@@ -2,7 +2,10 @@
 - 只收集开源软件
 - 部分中文介绍是英文机翻
 
+# Shizuku介绍
+Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进程直接以 adb 或 root 特权使用系统 API
 
+[Shizuku激活教程](https://shizuku.rikka.app/zh-hans/guide/setup/)
 
 # Shizuku下载地址
 | 版本 | github网址 |
