@@ -29,3 +29,4 @@
 | Amarok-Hider | Amarok 是一款轻量级隐私保护工具，一键隐藏你的隐私文件和应用 | [地址](https://github.com/deltazefiro/Amarok-Hider) |
 | Obtainium | 直接从源代码获取Android应用程序更新 | [地址](https://github.com/ImranR98/Obtainium) |
 | FFUpdater | 更新隐私友好的浏览器 | [地址](https://github.com/Tobi823/ffupdater) |
+| SystemUI Tuner | SystemUI Tuner是一款用于查看和修改Android设备上隐藏设置的应用程序 | [地址](https://github.com/zacharee/Tweaker) |
