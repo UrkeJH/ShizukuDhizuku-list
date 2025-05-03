@@ -7,20 +7,24 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
 
 [Shizuku激活教程](https://shizuku.rikka.app/zh-hans/guide/setup/)
 
-# Shizuku下载地址
+# Dhizuku介绍
+参考Shizuku的设计思想，分享 DeviceOwner (设备所有者) 权限给其余应用
+
+[Dhizuku激活教程](https://github.com/iamr0s/Dhizuku/discussions/16)
+
+# Shizuku/Dhizuku下载地址
 | 版本 | github网址 |
 | :-----------: | :-----------: |
-| Rikka(原版) | [地址](https://github.com/RikkaApps/Shizuku) |
-| yangFenTuoZi(改版) | [地址](https://github.com/yangFenTuoZi/Shizuku) |
-| pixincreate(改版) | [地址](https://github.com/pixincreate/Shizuku) |
-
+| Shizuku(原版) | [地址](https://github.com/RikkaApps/Shizuku) |
+| Shizuku(yangFenTuoZi改版) | [地址](https://github.com/yangFenTuoZi/Shizuku) |
+| Shizuku(pixincreate改版) | [地址](https://github.com/pixincreate/Shizuku) |
+| Dhizuku(原版) | [地址](https://github.com/iamr0s/Dhizuku) |
 
 # 支持软件
 | 名称 | 介绍 | github网址 |
 | :-----------: | :-----------: | :-----------: |
 | lspatch(JingMatrix) | LSPosed框架的免root实现，通过在目标APK中插入索引等来集成Xposed API | [地址](https://github.com/JingMatrix/LSPatch) |
 | 雹 | 一款用于冻结 Android 应用的自由软件 | [地址](https://github.com/aistra0528/Hail) |
-| Dhizuku | 参考Shizuku的设计思想，分享 DeviceOwner (设备所有者) 权限给其余应用 | [地址](https://github.com/iamr0s/Dhizuku) |
 | OwnDroid | 使用安卓Device owner特权管理你的设备 | [地址](https://github.com/BinTianqi/OwnDroid) |
 | InstallerX | 一款应用安装程序 | [地址](https://github.com/iamr0s/InstallerX) |
 | Blocker | Blocker是一款操作Android应用程序四大组件的程序 | [地址](https://github.com/lihenggui/blocker) |
