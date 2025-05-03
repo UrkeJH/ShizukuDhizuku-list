@@ -21,7 +21,7 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
 | Dhizuku(原版) | [地址](https://github.com/iamr0s/Dhizuku) |
 
 # 支持软件
-| 名称 | 介绍 | github网址 | 支持 |
+| 名称 | 介绍 | github网址 | 支持情况 |
 | :-----------: | :-----------: | :-----------: | :-----------: |
 | lspatch(JingMatrix) | LSPosed框架的免root实现，通过在目标APK中插入索引等来集成Xposed API | [地址](https://github.com/JingMatrix/LSPatch) | Shizuku |
 | 雹 | 一款用于冻结 Android 应用的自由软件 | [地址](https://github.com/aistra0528/Hail) | Shizuku/Dhizuku |
