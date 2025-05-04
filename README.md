@@ -39,3 +39,8 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
 | SystemUI Tuner | SystemUI Tuner是一款用于查看和修改Android设备上隐藏设置的应用程序 | [地址](https://github.com/zacharee/Tweaker) | Shizuku |
 | Package Manager | Package Manager是一个非常强大的应用程序来管理安装在android设备上的系统和用户应用程序 | [地址](https://github.com/SmartPack/PackageManager) | Shizuku |
 | Inure | 一个优雅的Android应用程序管理器 | [地址](https://github.com/Hamza417/Inure) | Shizuku |
+
+# 致谢
+项目中有所借鉴
+
+- [awesome-shizuku](https://github.com/timschneeb/awesome-shizuku)
