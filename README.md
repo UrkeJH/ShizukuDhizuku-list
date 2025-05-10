@@ -41,6 +41,7 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
 | Inure | 一个优雅的Android应用程序管理器 | [地址](https://github.com/Hamza417/Inure) | Shizuku |
 | PI | 允许覆盖包请求程序和执行程序的包安装程序 | [地址](https://github.com/SanmerApps/PI) | Shizuku |
 | Anywhere | 一个活动和shell快捷方式文件夹 | [地址](https://github.com/zhaobozhen/Anywhere-) | Shizuku |
+| LibChecker | 查看设备中应用程序中使用的库的应用程序 | [地址](https://github.com/LibChecker/LibChecker) | Shizuku |
 
 # 致谢
 项目中有所借鉴
