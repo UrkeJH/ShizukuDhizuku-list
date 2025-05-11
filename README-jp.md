@@ -1,3 +1,7 @@
+# 言語
+- [中国語](https://github.com/lovestoryhhh/ShizukuDhizuku-list/blob/main/README.md)
+- [日本語](https://github.com/lovestoryhhh/ShizukuDhizuku-list/blob/main/README-jp.md)
+
 # 説明
 - ShizukuまたはDhizukuをサポートするオープンソースソフトのみ収集しています
 - 一部の日本語の紹介は英語からの機械翻訳です
