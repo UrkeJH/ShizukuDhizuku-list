@@ -45,6 +45,7 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
 | Accounts | 删除已为用户注册账户的应用程序的软件包名称 | [地址](https://github.com/iamr0s/AndroidAccounts) | Shizuku |
 | LogFox | 这是另一个用于Android的LogCat阅读器 | [地址](https://github.com/F0x1d/LogFox) | Shizuku |
 | CatShare | 通过蓝牙发送和接收文件 | [地址](https://github.com/kmod-midori/CatShare) | Shizuku |
+| AndroidLowLevelDetector | 检测Treble,GSI,Mainline,APEX,system-as-root(SAR),A/B等 | [地址](https://github.com/imknown/AndroidLowLevelDetector) | Shizuku |
 
 # 致谢
 项目中有所借鉴
