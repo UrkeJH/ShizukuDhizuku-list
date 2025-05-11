@@ -1,7 +1,7 @@
 # 语言
 - [中文](https://github.com/lovestoryhhh/ShizukuDhizuku-list/blob/main/README.md)
-- [日文](https://github.com/lovestoryhhh/ShizukuDhizuku-list/blob/main/README-jp.md)
-- [繁体中文](https://github.com/lovestoryhhh/ShizukuDhizuku-list/blob/main/README-tw.md)
+- [日本語](https://github.com/lovestoryhhh/ShizukuDhizuku-list/blob/main/README-jp.md)
+- [繁體中文](https://github.com/lovestoryhhh/ShizukuDhizuku-list/blob/main/README-tw.md)
 
 # 说明
 - 只收集支持Shizuku或Dhizuku的开源软件
