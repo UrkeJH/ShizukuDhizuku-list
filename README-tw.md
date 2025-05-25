@@ -53,6 +53,7 @@ Shizuku 可以幫助普通應用藉由一個由 app_process 啟動的 Java 行�
 | LogFox | 這是另一個用於 Android 的 LogCat 閱讀器 | [連結](https://github.com/F0x1d/LogFox) | Shizuku |
 | CatShare | 透過藍牙傳送和接收檔案 | [連結](https://github.com/kmod-midori/CatShare) | Shizuku |
 | AndroidLowLevelDetector | 偵測 Treble、GSI、Mainline、APEX、system-as-root（SAR）、A/B 等 | [連結](https://github.com/imknown/AndroidLowLevelDetector) | Shizuku |
+| Shappky | 阻止背景應用程式使用 Shizuku 權限，提高設備性能，減少記憶體使用，並以一種輕量級和安全的方式降低熱量 | [地址](https://github.com/YasserNull/shappky) | Shizuku |
 
 # 致謝
 本專案中有部分內容參考自
