@@ -53,6 +53,7 @@ Shizuku의 설계 사상을 참고하여 DeviceOwner(디바이스 소유자) 권
 | LogFox | 또 다른 Android용 LogCat 리더입니다. | [주소](https://github.com/F0x1d/LogFox) | Shizuku |
 | CatShare | 블루투스를 통한 파일 송수신 | [주소](https://github.com/kmod-midori/CatShare) | Shizuku |
 | AndroidLowLevelDetector | Treble, GSI, Mainline, APEX, SAR, A/B 등 감지 | [주소](https://github.com/imknown/AndroidLowLevelDetector) | Shizuku |
+| Shappky | 백그라운드 앱이 Shizuku 권한을 사용하는 것을 막아 디바이스 성능을 향상시키고 메모리 사용량을 줄이며 가볍고 안전한 방식으로 발열을 억제합니다 | [주소](https://github.com/YasserNull/shappky) | Shizuku |
 
 # 감사
 본 프로젝트는 다음을 참고하였습니다.
