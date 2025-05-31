@@ -53,6 +53,7 @@ S’inspirant de la conception de Shizuku, Dhizuku partage les privilèges Devic
 | LogFox | Un autre lecteur LogCat pour Android | [Lien](https://github.com/F0x1d/LogFox) | Shizuku |
 | CatShare | Envoi et réception de fichiers via Bluetooth | [Lien](https://github.com/kmod-midori/CatShare) | Shizuku |
 | AndroidLowLevelDetector | Détecte Treble, GSI, Mainline, APEX, system-as-root (SAR), A/B, etc. | [Lien](https://github.com/imknown/AndroidLowLevelDetector) | Shizuku |
+| Shappky | Empêche les applications en arrière-plan d'utiliser les autorisations Shizuku, améliore les performances de l'appareil, réduit l'utilisation de la mémoire et diminue la chaleur de manière légère et sécurisée | [Adresse](https://github.com/YasserNull/shappky) | Shizuku |
 
 # Remerciements
 Ce projet s’inspire de :
