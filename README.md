@@ -1,5 +1,4 @@
 # 语言
-- [简体中文](https://github.com/lovestoryhhh/ShizukuDhizuku-list/blob/main/README.md)
 - [繁體中文](https://github.com/lovestoryhhh/ShizukuDhizuku-list/blob/main/README-tw.md)
 
 # 说明
