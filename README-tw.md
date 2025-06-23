@@ -122,6 +122,18 @@ Shizuku 可以幫助普通應用程式藉由一個由 app_process 啟動的 Java
     - ☑️ 阻止背景應用程式使用Shizuku權限，提高裝置效能，減少記憶體使用，並以一種輕量級和安全的方式降低溫度
     - ✅ 支援Shizuku
 
+25. ### [ShizuTools](https://github.com/legendsayantan/ShizuTools)
+    - ☑️ 一些易於使用的工具來超越 Android 系統允許的控制級別。
+    - ✅ 支援Shizuku
+
+26. ### [BilibiliCacheVideoMerge](https://github.com/molihuan/BilibiliCacheVideoMerge)
+    - ☑️ Andriod上提供Bilibili快取影片合併的工具
+    - ✅ 支援Shizuku
+
+27. ### [aShell You](https://github.com/DP-Hridayan/aShellYou)
+    - ☑️ Material You 重新設計的 aShell 應用程式
+    - ✅ 支援Shizuku
+
 # 致謝
 本專案有所借鑑  
 ### [awesome-shizuku](https://github.com/timschneeb/awesome-shizuku)
