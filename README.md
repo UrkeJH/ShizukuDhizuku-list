@@ -3,6 +3,7 @@
 
 # 说明
 1️⃣ 只收集支持Shizuku或Dhizuku的开源软件
+
 2️⃣ 部分中文介绍是英文机翻
 
 # Shizuku介绍
