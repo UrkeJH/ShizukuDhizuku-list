@@ -33,6 +33,7 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
 2. ### [雹](https://github.com/aistra0528/Hail)
    - ☑️ 一款用于冻结 Android 应用的自由软件
    - ✅✅ 支持Shizuku/Dhizuku
+   - ✅ 相似软件：[FreezeYou](https://github.com/FreezeYou/FreezeYou)
 
 3. ### [OwnDroid](https://github.com/BinTianqi/OwnDroid)
    - ☑️ 使用安卓Device owner特权管理你的设备
@@ -41,6 +42,7 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
 4. ### [InstallerX](https://github.com/iamr0s/InstallerX)
    - ☑️ 一款应用安装程序
    - ✅✅ 支持Shizuku/Dhizuku
+   - ✅ 相似软件：[SAI(已停更)](https://github.com/Aefyr/SAI) 和 [Install with Options](https://github.com/zacharee/InstallWithOptions)
 
 5. ### [Blocker](https://github.com/lihenggui/blocker)
    - ☑️ Blocker是一款操作Android应用程序四大组件的程序
@@ -49,6 +51,7 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
 6. ### [lspatch(JingMatrix)](https://github.com/JingMatrix/LSPatch)
    - ☑️ LSPosed框架的免root实现，通过在目标APK中插入索引等来集成Xposed API
    - ✅ 支持Shizuku
+   - ☑️ 原版软件：[lspatch(已停更)](https://github.com/LSPosed/LSPatch)
 
 7. ### [SD Maid SE](https://github.com/d4rken-org/sdmaid-se)
    - ☑️ 是一个专门用于维护的Android文件管理工具。其核心目的是释放空间和删除不需要的数据
@@ -65,6 +68,7 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
 10. ### [Mihon](https://github.com/mihonapp/mihon)
     - ☑️ Mihon应用功能齐全的读者，发现和阅读漫画，网络漫画，漫画，和更多-比以往任何时候都更容易在您的安卓设备上
     - ✅ 支持Shizuku
+    - ✅ 相似软件：[ TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) 和 [ TachiyomiAZ](https://github.com/az4521/TachiyomiAZ)
 
 11. ### [Canta](https://github.com/samolego/Canta)
     - ☑️ 在没有root权限的情况下卸载任何Android应用
@@ -132,6 +136,18 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
 
 27. ### [aShell You](https://github.com/DP-Hridayan/aShellYou)
     - ☑️ Material You 重新设计的 aShell 应用程序
+    - ✅ 支持Shizuku
+
+28. ### [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore)
+    - ☑️ 具有隐私和现代设计的 Google Play 商店的开源替代品
+    - ✅ 支持Shizuku
+
+29. ### [AutoJs6](https://github.com/SuperMonster003/AutoJs6)
+    - ☑️ Android 平台支持无障碍服务的 JavaScript 自动化工具
+    - ✅ 支持Shizuku
+
+30. ### [Tarnhelm](https://github.com/lz233/Tarnhelm)
+    - ☑️ 清理共享链接的跟踪，支持自定义URL重写规则 
     - ✅ 支持Shizuku
 
 # 致谢
