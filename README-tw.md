@@ -2,45 +2,47 @@
 ### [简体中文](https://github.com/lovestoryhhh/ShizukuDhizuku-list/blob/main/README.md)
 
 # 說明
-1️⃣ 只收集支援Shizuku或Dhizuku的開源軟體  
+1️⃣ 只收集支援Shizuku或Dhizuku的開源軟體        
 2️⃣ 部分中文介紹為英文機翻
 
 # Shizuku介紹
-Shizuku 可以幫助普通應用程式藉由一個由 app_process 啟動的 Java 行程直接以 adb 或 root 權限使用系統 API
+Shizuku 可以幫助普通應用借助一個由 app_process 啟動的 Java 行程直接以 adb 或 root 權限使用系統 API
 
 [Shizuku啟用教學](https://shizuku.rikka.app/zh-hant/guide/setup/)
 
 # Dhizuku介紹
-參考Shizuku的設計理念，分享 DeviceOwner（裝置擁有者）權限給其他應用程式
+參考Shizuku的設計思想，分享 DeviceOwner（裝置擁有者）權限給其餘應用
 
 [Dhizuku啟用教學](https://github.com/iamr0s/Dhizuku/discussions/16)
 
 # Shizuku/Dhizuku下載地址
-1️⃣ [Dhizuku（原版）](https://github.com/iamr0s/Dhizuku)
+1️⃣ [Dhizuku(原版)](https://github.com/iamr0s/Dhizuku)
 
-2️⃣ [Shizuku（原版）](https://github.com/RikkaApps/Shizuku)
+2️⃣ [Shizuku(原版)](https://github.com/RikkaApps/Shizuku)
 
-3️⃣ [Shizuku（yangFenTuoZi改版）](https://github.com/yangFenTuoZi/Shizuku)
+3️⃣ [Shizuku(yangFenTuoZi改版)](https://github.com/yangFenTuoZi/Shizuku)
 
-4️⃣ [Shizuku（pixincreate改版）](https://github.com/pixincreate/Shizuku)
+4️⃣ [Shizuku(pixincreate改版)](https://github.com/pixincreate/Shizuku)
 
 # 支援軟體
 
 1. ### [Amarok-Hider](https://github.com/deltazefiro/Amarok-Hider)
-   - ☑️ Amarok 是一款輕量級隱私保護工具，一鍵隱藏你的隱私檔案和應用程式
+   - ☑️ Amarok 是一款輕量級隱私保護工具，一鍵隱藏你的隱私檔案和應用
    - ✅✅ 支援Shizuku/Dhizuku
 
 2. ### [雹](https://github.com/aistra0528/Hail)
-   - ☑️ 一款用於凍結 Android 應用程式的自由軟體
+   - ☑️ 一款用於凍結 Android 應用的自由軟體
    - ✅✅ 支援Shizuku/Dhizuku
+   - ✅ 相似軟體：[FreezeYou](https://github.com/FreezeYou/FreezeYou)
 
 3. ### [OwnDroid](https://github.com/BinTianqi/OwnDroid)
-   - ☑️ 使用安卓Device owner權限管理你的裝置
+   - ☑️ 使用安卓Device owner特權管理你的裝置
    - ✅✅ 支援Shizuku/Dhizuku
 
 4. ### [InstallerX](https://github.com/iamr0s/InstallerX)
-   - ☑️ 一款應用程式安裝工具
+   - ☑️ 一款應用安裝程式
    - ✅✅ 支援Shizuku/Dhizuku
+   - ✅ 相似軟體：[SAI(已停更)](https://github.com/Aefyr/SAI) 和 [Install with Options](https://github.com/zacharee/InstallWithOptions)
 
 5. ### [Blocker](https://github.com/lihenggui/blocker)
    - ☑️ Blocker是一款操作Android應用程式四大元件的程式
@@ -49,6 +51,7 @@ Shizuku 可以幫助普通應用程式藉由一個由 app_process 啟動的 Java
 6. ### [lspatch(JingMatrix)](https://github.com/JingMatrix/LSPatch)
    - ☑️ LSPosed框架的免root實現，通過在目標APK中插入索引等來整合Xposed API
    - ✅ 支援Shizuku
+   - ☑️ 原版軟體：[lspatch(已停更)](https://github.com/LSPosed/LSPatch)
 
 7. ### [SD Maid SE](https://github.com/d4rken-org/sdmaid-se)
    - ☑️ 是一個專門用於維護的Android檔案管理工具。其核心目的是釋放空間和刪除不需要的資料
@@ -63,15 +66,16 @@ Shizuku 可以幫助普通應用程式藉由一個由 app_process 啟動的 Java
    - ✅ 支援Shizuku
 
 10. ### [Mihon](https://github.com/mihonapp/mihon)
-    - ☑️ Mihon應用功能齊全的閱讀器，發現和閱讀漫畫，網路漫畫，漫畫，和更多－比以往任何時候都更容易在您的安卓裝置上
+    - ☑️ Mihon應用功能齊全的閱讀器，發現和閱讀漫畫，網路漫畫，漫畫，和更多-比以往任何時候都更容易在您的安卓裝置上
     - ✅ 支援Shizuku
+    - ✅ 相似軟體：[ TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) 和 [ TachiyomiAZ](https://github.com/az4521/TachiyomiAZ)
 
 11. ### [Canta](https://github.com/samolego/Canta)
-    - ☑️ 在沒有root權限的情況下解除安裝任何Android應用程式
+    - ☑️ 在沒有root權限的情況下解除安裝任何Android應用
     - ✅ 支援Shizuku
 
 12. ### [Obtainium](https://github.com/ImranR98/Obtainium)
-    - ☑️ 直接從原始碼獲取Android應用程式更新
+    - ☑️ 直接從源碼獲取Android應用程式更新
     - ✅ 支援Shizuku
 
 13. ### [FFUpdater](https://github.com/Tobi823/ffupdater)
@@ -79,7 +83,7 @@ Shizuku 可以幫助普通應用程式藉由一個由 app_process 啟動的 Java
     - ✅ 支援Shizuku
 
 14. ### [SystemUI Tuner](https://github.com/zacharee/Tweaker)
-    - ☑️ SystemUI Tuner是一款用於檢視和修改Android裝置上隱藏設定的應用程式
+    - ☑️ SystemUI Tuner是一款用於查看和修改Android裝置上隱藏設定的應用程式
     - ✅ 支援Shizuku
 
 15. ### [Package Manager](https://github.com/SmartPack/PackageManager)
@@ -91,7 +95,7 @@ Shizuku 可以幫助普通應用程式藉由一個由 app_process 啟動的 Java
     - ✅ 支援Shizuku
 
 17. ### [PI](https://github.com/SanmerApps/PI)
-    - ☑️ 允許覆蓋套件請求程式和執行程式的套件安裝程式
+    - ☑️ 允許覆蓋包請求程式和執行程式的包安裝程式
     - ✅ 支援Shizuku
 
 18. ### [Anywhere](https://github.com/zhaobozhen/Anywhere-)
@@ -99,11 +103,11 @@ Shizuku 可以幫助普通應用程式藉由一個由 app_process 啟動的 Java
     - ✅ 支援Shizuku
 
 19. ### [LibChecker](https://github.com/LibChecker/LibChecker)
-    - ☑️ 檢視裝置中應用程式中使用的函式庫的應用程式
+    - ☑️ 查看裝置中應用程式中使用的函式庫的應用程式
     - ✅ 支援Shizuku
 
 20. ### [Accounts](https://github.com/iamr0s/AndroidAccounts)
-    - ☑️ 刪除已為用戶註冊帳號的應用程式的套件名稱
+    - ☑️ 刪除已為用戶註冊帳戶的應用程式的套件名稱
     - ✅ 支援Shizuku
 
 21. ### [LogFox](https://github.com/F0x1d/LogFox)
@@ -115,11 +119,11 @@ Shizuku 可以幫助普通應用程式藉由一個由 app_process 啟動的 Java
     - ✅ 支援Shizuku
 
 23. ### [AndroidLowLevelDetector](https://github.com/imknown/AndroidLowLevelDetector)
-    - ☑️ 偵測Treble、GSI、Mainline、APEX、system-as-root(SAR)、A/B等
+    - ☑️ 偵測Treble,GSI,Mainline,APEX,system-as-root(SAR),A/B等
     - ✅ 支援Shizuku
 
 24. ### [Shappky](https://github.com/YasserNull/shappky)
-    - ☑️ 阻止背景應用程式使用Shizuku權限，提高裝置效能，減少記憶體使用，並以一種輕量級和安全的方式降低溫度
+    - ☑️ 阻止後台應用程式使用Shizuku權限，提高裝置效能，減少記憶體使用，並以一種輕量級和安全的方式降低熱量
     - ✅ 支援Shizuku
 
 25. ### [ShizuTools](https://github.com/legendsayantan/ShizuTools)
@@ -134,6 +138,18 @@ Shizuku 可以幫助普通應用程式藉由一個由 app_process 啟動的 Java
     - ☑️ Material You 重新設計的 aShell 應用程式
     - ✅ 支援Shizuku
 
+28. ### [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore)
+    - ☑️ 具有隱私和現代設計的 Google Play 商店的開源替代品
+    - ✅ 支援Shizuku
+
+29. ### [AutoJs6](https://github.com/SuperMonster003/AutoJs6)
+    - ☑️ Android 平台支援無障礙服務的 JavaScript 自動化工具
+    - ✅ 支援Shizuku
+
+30. ### [Tarnhelm](https://github.com/lz233/Tarnhelm)
+    - ☑️ 清理分享連結的追蹤，支援自訂URL重寫規則 
+    - ✅ 支援Shizuku
+
 # 致謝
-本專案有所借鑑  
+本專案有所借鑑
 ### [awesome-shizuku](https://github.com/timschneeb/awesome-shizuku)
