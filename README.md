@@ -27,9 +27,6 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
 - [Shizuku(pixincreate改版)](https://github.com/pixincreate/Shizuku)
 
 ## 支持软件
-### 目录
-[终端](#终端) | [网络](#网络) | [自动化](#自动化) | [设备所有者](#设备所有者) | [软件管理](#软件管理) | [定制](#定制) | [娱乐](#娱乐) | [文件管理](#文件管理) | [安装程序和应用商店](#安装程序和应用商店) | [开发工具](#开发工具)
-
 
 #### 软件管理
 - [雹](https://github.com/aistra0528/Hail) `Shizuku/Dhizuku` 一款用于冻结 Android 应用的自由软件
@@ -77,13 +74,15 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
 - [InstallerX Revived](https://github.com/wxxsfxyzm/InstallerX-Revived) `Shizuku/Dhizuku` 应用安装程序
     原项目：[InstallerX](https://github.com/iamr0s/InstallerX)
 
-- [Install with Options](https://github.com/zacharee/InstallWithOptions) `Shizuku/Dhizuku` 相似软件，应用安装程序
+- [Install with Options](https://github.com/zacharee/InstallWithOptions) `Shizuku/Dhizuku` 应用安装程序
 
 - [Obtainium](https://github.com/ImranR98/Obtainium) `Shizuku` 直接从源代码获取Android应用程序更新
 
 - [FFUpdater](https://github.com/Tobi823/ffupdater) `Shizuku` 更新隐私友好的浏览器
 
 - [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore) `Shizuku` Google Play 商店的开源替代品
+
+- [Droid-ify](https://github.com/Droid-ify/client) `Shizuku` 第三方F-Droid 客户端
 
 #### 自动化
 - [AutoJs6](https://github.com/SuperMonster003/AutoJs6) `Shizuku` 支持无障碍服务的 JavaScript 自动化工具
@@ -108,6 +107,11 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
 
 #### 网络
 - [CatShare](https://github.com/kmod-midori/CatShare) `Shizuku` 通过蓝牙发送和接收文件
+
+#### 视频
+- [RootlessJamesDSP](https://github.com/timschneeb/RootlessJamesDSP) `Shizuku` 系统范围的 JamesDSP 音频处理引擎的实现,适用于非 root 的 Android 设备
+- [Volume Manager](https://github.com/yume-chan/VolumeManager) `Shizuku` 独立控制每个应用程序的音量
+
 
 ## 致谢
 项目中有所借鉴
