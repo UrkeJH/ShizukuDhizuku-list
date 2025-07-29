@@ -116,3 +116,6 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
 ## 致谢
 项目中有所借鉴
 ### [awesome-shizuku](https://github.com/timschneeb/awesome-shizuku)
+
+## 星标历史
+[![Star History Chart](https://api.star-history.com/svg?repos=UrkeJH/ShizukuDhizuku-list&type=Timeline)](https://star-history.com/#UrkeJH/ShizukuDhizuku-list&Timeline)
