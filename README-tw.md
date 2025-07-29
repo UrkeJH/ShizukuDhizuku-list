@@ -110,4 +110,4 @@ Shizuku 可以幫助一般應用程式透過由 app_process 啟動的 Java 程�
 
 ## 致謝
 本專案有所借鑑
-#### [awesome-shizuku](https://github.com/timschneeb/awesome-shizuku)
+### [awesome-shizuku](https://github.com/timschneeb/awesome-shizuku)
