@@ -11,6 +11,7 @@
 Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进程直接以 adb 或 root 特权使用系统 API
 
 [Shizuku激活教程](https://shizuku.rikka.app/zh-hans/guide/setup/)
+[官方网站](https://shizuku.rikka.app/)
 
 ## Dhizuku介绍
 参考Shizuku的设计思想，分享 DeviceOwner (设备所有者) 权限给其余应用
@@ -28,7 +29,7 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
 
 ## 支持软件
 
-#### 软件管理
+### 软件管理
 - [雹](https://github.com/aistra0528/Hail) `Shizuku/Dhizuku` 一款用于冻结 Android 应用的自由软件
     相似软件：[FreezeYou](https://github.com/FreezeYou/FreezeYou)
 
@@ -44,31 +45,33 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
 
 - [Shappky](https://github.com/YasserNull/shappky) `Shizuku` 阻止后台应用程序使用Shizuku权限,提高设备性能
 
-#### 终端
+- [Thor](https://github.com/trinadhthatakula/Thor) `Shizuku` 应用程序管理器
+
+### 终端
 - [aShell You](https://github.com/DP-Hridayan/aShellYou) `Shizuku` Material You 重新设计的 aShell 应用程序
 
-#### 文件管理
+### 文件管理
 - [Amarok-Hider](https://github.com/deltazefiro/Amarok-Hider) `Shizuku/Dhizuku` Amarok 是一款轻量级隐私保护工具，一键隐藏你的隐私文件和应用
 
 - [SD Maid SE](https://github.com/d4rken-org/sdmaid-se) `Shizuku` 专门用于维护的Android文件管理工具，释放空间和删除不需要的数据
 
-#### 娱乐
+### 娱乐
 - [Mihon](https://github.com/mihonapp/mihon) `Shizuku` 功能齐全的漫画阅读器 
-    相似软件：[TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) 和      [TachiyomiAZ](https://github.com/az4521/TachiyomiAZ)
+    相似软件：[TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) 和 [TachiyomiAZ](https://github.com/az4521/TachiyomiAZ)
 
 - [BilibiliCacheVideoMerge](https://github.com/molihuan/BilibiliCacheVideoMerge) `Shizuku` Bilibili缓存视频合并工具
 
-#### 设备所有者
+### 设备所有者
 - [OwnDroid](https://github.com/BinTianqi/OwnDroid) `Shizuku/Dhizuku` 使用安卓Device owner特权管理你的设备
 
-#### 定制
+### 定制
 - [SystemUI Tuner](https://github.com/zacharee/Tweaker) `Shizuku` 查看和修改Android设备上隐藏设置的应用程序
 
 - [ShizuTools](https://github.com/legendsayantan/ShizuTools) `Shizuku` 易于使用的工具来超越 Android 系统允许的控制级别
 
 - [Tarnhelm](https://github.com/lz233/Tarnhelm) `Shizuku` 清理共享链接的跟踪，支持自定义URL重写规则
 
-#### 安装程序和应用商店
+### 安装程序&应用商店
 - [PI](https://github.com/SanmerApps/PI) `Shizuku` 覆盖包请求程序和执行程序的包安装程序
 
 - [InstallerX Revived](https://github.com/wxxsfxyzm/InstallerX-Revived) `Shizuku/Dhizuku` 应用安装程序
@@ -84,14 +87,16 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
 
 - [Droid-ify](https://github.com/Droid-ify/client) `Shizuku` 第三方F-Droid 客户端
 
-#### 自动化
+### 自动化
 - [AutoJs6](https://github.com/SuperMonster003/AutoJs6) `Shizuku` 支持无障碍服务的 JavaScript 自动化工具
 
 - [gkd](https://github.com/gkd-kit/gkd) `Shizuku` 自定义屏幕点击APP
 
 - [Anywhere](https://github.com/zhaobozhen/Anywhere-) `Shizuku` 活动和shell快捷方式文件夹
 
-#### 开发工具
+- [PhoneProfilesPlus](https://github.com/henrichg/PhoneProfilesPlus) `Shizuku` 允许自动或一键配置设备以适应生活情况
+
+### 开发工具&杂项
 - [LibChecker](https://github.com/LibChecker/LibChecker) `Shizuku` 查看设备中应用程序中使用的库
 
 - [AndroidLowLevelDetector](https://github.com/imknown/AndroidLowLevelDetector) `Shizuku` 检测Treble,GSI,Mainline,APEX,system-as-root(SAR),A/B等
@@ -105,12 +110,19 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
 
 - [AIDE-Plus](https://github.com/AndroidIDE-CN/AIDE-Plus) `Shizuku` 适用于手机的 Android IDE
 
-#### 网络
+- [DSU Sideloader](https://github.com/VegaBobo/DSU-Sideloader) `Shizuku` 帮助用户通过DSU的Android功能轻松安装 GSI
+
+### 网络
 - [CatShare](https://github.com/kmod-midori/CatShare) `Shizuku` 通过蓝牙发送和接收文件
 
-#### 视频
+### 视频
 - [RootlessJamesDSP](https://github.com/timschneeb/RootlessJamesDSP) `Shizuku` 系统范围的 JamesDSP 音频处理引擎的实现,适用于非 root 的 Android 设备
 - [Volume Manager](https://github.com/yume-chan/VolumeManager) `Shizuku` 独立控制每个应用程序的音量
+
+### 显示管理
+- [Fold Switcher](https://github.com/eiyooooo/Fold_Switcher) `Shizuku` 折叠屏切换器
+
+- [Grayscaler](https://github.com/C10udburst/Grayscaler) `Shizuku` 让您的手机保持大部分单色
 
 
 ## 致谢
