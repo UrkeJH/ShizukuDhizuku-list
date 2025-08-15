@@ -30,7 +30,7 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
 ## 支持软件
 
 ### 软件管理
-- [雹](https://github.com/aistra0528/Hail) `Shizuku/Dhizuku` 一款用于冻结 Android 应用的自由软件
+- [雹](https://github.com/aistra0528/Hail) `Shizuku/Dhizuku/Root` 一款用于冻结 Android 应用的自由软件
     相似软件：[FreezeYou](https://github.com/FreezeYou/FreezeYou)
 
 - [Canta](https://github.com/samolego/Canta) `Shizuku` 在没有root权限的情况下卸载任何Android应用
@@ -47,13 +47,15 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
 
 - [Thor](https://github.com/trinadhthatakula/Thor) `Shizuku` 应用程序管理器
 
+- [MMRL](https://github.com/MMRLApp/MMRL) `Shizuku(Root)` 管理您自己的模块存储库
+  
 ### 终端
-- [aShell You](https://github.com/DP-Hridayan/aShellYou) `Shizuku` Material You 重新设计的 aShell 应用程序
+- [aShell You](https://github.com/DP-Hridayan/aShellYou) `Shizuku/Root` Material You 重新设计的 aShell 应用程序
 
 ### 文件管理
-- [Amarok-Hider](https://github.com/deltazefiro/Amarok-Hider) `Shizuku/Dhizuku` Amarok 是一款轻量级隐私保护工具，一键隐藏你的隐私文件和应用
+- [Amarok-Hider](https://github.com/deltazefiro/Amarok-Hider) `Shizuku/Dhizuku/Root` Amarok 是一款轻量级隐私保护工具，一键隐藏你的隐私文件和应用
 
-- [SD Maid SE](https://github.com/d4rken-org/sdmaid-se) `Shizuku` 专门用于维护的Android文件管理工具，释放空间和删除不需要的数据
+- [SD Maid SE](https://github.com/d4rken-org/sdmaid-se) `Shizuku/Root` 专门用于维护的Android文件管理工具，释放空间和删除不需要的数据
 
 ### 娱乐
 - [Mihon](https://github.com/mihonapp/mihon) `Shizuku` 功能齐全的漫画阅读器 
@@ -71,10 +73,14 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
 
 - [Tarnhelm](https://github.com/lz233/Tarnhelm) `Shizuku` 清理共享链接的跟踪，支持自定义URL重写规则
 
-### 安装程序&应用商店
-- [PI](https://github.com/SanmerApps/PI) `Shizuku` 覆盖包请求程序和执行程序的包安装程序
+- [Language Selector](https://github.com/VegaBobo/Language-Selector) `Shizuku` 允许用户设置单独的应用程序语言
+  
+- [Krude](https://github.com/KusStar/krude) `Shizuku` 小而美的应用启动器
 
-- [InstallerX Revived](https://github.com/wxxsfxyzm/InstallerX-Revived) `Shizuku/Dhizuku` 应用安装程序
+### 安装程序&应用商店
+- [PI](https://github.com/SanmerApps/PI) `Shizuku/Root` 覆盖包请求程序和执行程序的包安装程序
+
+- [InstallerX Revived](https://github.com/wxxsfxyzm/InstallerX-Revived) `Shizuku/Dhizuku/Root` 应用安装程序
     原项目：[InstallerX](https://github.com/iamr0s/InstallerX)
 
 - [Install with Options](https://github.com/zacharee/InstallWithOptions) `Shizuku/Dhizuku` 应用安装程序
@@ -86,6 +92,8 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
 - [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore) `Shizuku` Google Play 商店的开源替代品
 
 - [Droid-ify](https://github.com/Droid-ify/client) `Shizuku` 第三方F-Droid 客户端
+
+- [PackageInstaller](https://github.com/vvb2060/PackageInstaller) `Shizuku` 用于 Android 的轻量级但功能强大的软件包安装程序
 
 ### 自动化
 - [AutoJs6](https://github.com/SuperMonster003/AutoJs6) `Shizuku` 支持无障碍服务的 JavaScript 自动化工具
@@ -101,7 +109,7 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
 
 - [AndroidLowLevelDetector](https://github.com/imknown/AndroidLowLevelDetector) `Shizuku` 检测Treble,GSI,Mainline,APEX,system-as-root(SAR),A/B等
 
-- [lspatch(JingMatrix)](https://github.com/JingMatrix/LSPatch) `Shizuku` LSPosed框架的免root实现 
+- [lspatch](https://github.com/JingMatrix/LSPatch) `Shizuku` LSPosed框架的免root实现 
     原项目：[lspatch(已停更)](https://github.com/LSPosed/LSPatch)
 
 - [LogFox](https://github.com/F0x1d/LogFox) `Shizuku` Android的LogCat阅读器
@@ -110,7 +118,7 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
 
 - [AIDE-Plus](https://github.com/AndroidIDE-CN/AIDE-Plus) `Shizuku` 适用于手机的 Android IDE
 
-- [DSU Sideloader](https://github.com/VegaBobo/DSU-Sideloader) `Shizuku` 帮助用户通过DSU的Android功能轻松安装 GSI
+- [DSU Sideloader](https://github.com/VegaBobo/DSU-Sideloader) `Shizuku/Root` 帮助用户通过DSU的Android功能轻松安装 GSI
 
 ### 网络
 - [CatShare](https://github.com/kmod-midori/CatShare) `Shizuku` 通过蓝牙发送和接收文件
