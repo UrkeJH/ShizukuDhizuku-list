@@ -23,9 +23,9 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
 
 - [Shizuku(原版)](https://github.com/RikkaApps/Shizuku)
 
-- [Shizuku(yangFenTuoZi改版)](https://github.com/yangFenTuoZi/Shizuku)
+- [Shizuku(改版)](https://github.com/yangFenTuoZi/Shizuku)
 
-- [Shizuku(pixincreate改版)](https://github.com/pixincreate/Shizuku)
+- [Shizuku(改版)](https://github.com/pixincreate/Shizuku)
 
 ## 支持软件
 
@@ -76,6 +76,7 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
 - [Language Selector](https://github.com/VegaBobo/Language-Selector) `Shizuku` 允许用户设置单独的应用程序语言
   
 - [Krude](https://github.com/KusStar/krude) `Shizuku` 小而美的应用启动器
+  
 
 ### 安装程序&应用商店
 - [PI](https://github.com/SanmerApps/PI) `Shizuku/Root` 覆盖包请求程序和执行程序的包安装程序
@@ -83,15 +84,15 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
 - [InstallerX Revived](https://github.com/wxxsfxyzm/InstallerX-Revived) `Shizuku/Dhizuku/Root` 应用安装程序
     原项目：[InstallerX](https://github.com/iamr0s/InstallerX)
 
-- [Install with Options](https://github.com/zacharee/InstallWithOptions) `Shizuku/Dhizuku` 应用安装程序
+- [Install with Options](https://github.com/zacharee/InstallWithOptions) `Shizuku` 应用安装程序
 
 - [Obtainium](https://github.com/ImranR98/Obtainium) `Shizuku` 直接从源代码获取Android应用程序更新
 
 - [FFUpdater](https://github.com/Tobi823/ffupdater) `Shizuku` 更新隐私友好的浏览器
 
-- [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore) `Shizuku` Google Play 商店的开源替代品
+- [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore) `Shizuku/Root` Google Play 商店的开源替代品
 
-- [Droid-ify](https://github.com/Droid-ify/client) `Shizuku` 第三方F-Droid 客户端
+- [Droid-ify](https://github.com/Droid-ify/client) `Shizuku/Root` 第三方F-Droid 客户端
 
 - [PackageInstaller](https://github.com/vvb2060/PackageInstaller) `Shizuku` 用于 Android 的轻量级但功能强大的软件包安装程序
 
@@ -103,6 +104,8 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
 - [Anywhere](https://github.com/zhaobozhen/Anywhere-) `Shizuku` 活动和shell快捷方式文件夹
 
 - [PhoneProfilesPlus](https://github.com/henrichg/PhoneProfilesPlus) `Shizuku` 允许自动或一键配置设备以适应生活情况
+
+- [Geto](https://github.com/JackEblan/Geto) `Shizuku` 启动特定应用时自动更改设备设置
 
 ### 开发工具&杂项
 - [LibChecker](https://github.com/LibChecker/LibChecker) `Shizuku` 查看设备中应用程序中使用的库
@@ -123,19 +126,36 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
 ### 网络
 - [CatShare](https://github.com/kmod-midori/CatShare) `Shizuku` 通过蓝牙发送和接收文件
 
+- [Kettu](https://github.com/C0C0B01/Kettu) `Shizuku`  Discord 模组工具
+
+- [MastodonRedirect](https://github.com/zacharee/MastodonRedirect) `Shizuku` 用于在您首选的 Mastodon 或 Lemmy 客户端中自动启动联合链接
+
+- [TxtNet-Browser](https://github.com/lukeaschenbrenner/TxtNet-Browser) `Shizuku` 通过短信浏览网页，无需 WiFi 或移动数据！
+
 ### 视频
 - [RootlessJamesDSP](https://github.com/timschneeb/RootlessJamesDSP) `Shizuku` 系统范围的 JamesDSP 音频处理引擎的实现,适用于非 root 的 Android 设备
+  
 - [Volume Manager](https://github.com/yume-chan/VolumeManager) `Shizuku` 独立控制每个应用程序的音量
 
 ### 显示管理
 - [Fold Switcher](https://github.com/eiyooooo/Fold_Switcher) `Shizuku` 折叠屏切换器
 
 - [Grayscaler](https://github.com/C10udburst/Grayscaler) `Shizuku` 让您的手机保持大部分单色
+  
+### 电源管理
+- [dumpsys-battery-manager](https://github.com/superisuer/dumpsys-battery-manager) `Shizuku` 通过 dumpsys 与接口更改电池值
 
+- [ScreenOff](https://github.com/WuDi-ZhanShen/ScreenOff) `Shizuku` 通过 Shizuku 控制您的 Android 屏幕 显示或不显示
 
+- [ZukuLock](https://github.com/tiendnm/zukulock) `Shizuku` 快速打开或关闭屏幕
+  
 ## 致谢
 项目中有所借鉴
 ### [awesome-shizuku](https://github.com/timschneeb/awesome-shizuku)
+
+## 附注
+`Shizuku(Root)`: 需要 Shizuku 在 Root 模式下运行
+`Shizuku/Dhizuku/Root`: 支持 Shizuku/Dhizuku/Root 多种模式
 
 ## 星标历史
 [![Star History Chart](https://api.star-history.com/svg?repos=UrkeJH/ShizukuDhizuku-list&type=Timeline)](https://star-history.com/#UrkeJH/ShizukuDhizuku-list&Timeline)
