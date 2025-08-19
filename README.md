@@ -155,6 +155,7 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
 
 ## 附注
 `Shizuku(Root)`: 需要 Shizuku 在 Root 模式下运行
+
 `Shizuku/Dhizuku/Root`: 支持 Shizuku/Dhizuku/Root 多种模式
 
 ## 星标历史
