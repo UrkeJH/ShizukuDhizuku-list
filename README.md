@@ -10,7 +10,7 @@
 ## Shizuku介绍
 Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进程直接以 adb 或 root 特权使用系统 API
 
-[Shizuku激活教程](https://shizuku.rikka.app/zh-hans/guide/setup/)
+[Shizuku激活教程](shizuku教程.md)
 [官方网站](https://shizuku.rikka.app/)
 
 ## Dhizuku介绍
