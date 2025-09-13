@@ -4,25 +4,25 @@
 
 1.点击软件进入配对选项，进入开发者设置
 
-![](image\1.webp)
+![](image/1.webp)
 
 2.如果进不去请先在设置里的关于手机里，连续点击多次版本号即可开启开发者设置
 
-![](image\2.webp)
+![](image/2.webp)
 
 3.在开发者模式开启无线调试 再进入无线调试 记住配对码
 
-![](image\3.webp)
+![](image/3.webp)
 
-![](image\4.webp)
+![](image/4.webp)
 
 4.在通知栏中的shizuku输入框内输入配对码（如没有通知先给shizuku通知权限，**小米手机通知栏样式要改为原生模式，还不显示的话拖成小窗**)
 
-![](image\5.webp)
+![](image/5.webp)
 
 5.返回shizuku并进入启动选项，等待加载完成后即可
 
-![](image\6.webp)
+![](image/6.webp)
 
 ### 特别说明
 
