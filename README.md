@@ -52,10 +52,17 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
 ### 终端
 - [aShell You](https://github.com/DP-Hridayan/aShellYou) `Shizuku/Root` Material You 重新设计的 aShell 应用程序
 
+- [ReTerminal](https://github.com/RohitKushvaha01/ReTerminal) `Shizuku` 一款时尚的、受Material3启发的终端模拟器
+
 ### 文件管理
 - [Amarok-Hider](https://github.com/deltazefiro/Amarok-Hider) `Shizuku/Dhizuku/Root` Amarok 是一款轻量级隐私保护工具，一键隐藏你的隐私文件和应用
 
 - [SD Maid SE](https://github.com/d4rken-org/sdmaid-se) `Shizuku/Root` 专门用于维护的Android文件管理工具，释放空间和删除不需要的数据
+
+### 隐私保护
+- [Amarok-Hider](https://github.com/deltazefiro/Amarok-Hider) `Shizuku/Dhizuku/Root` Amarok 是一款轻量级隐私保护工具，一键隐藏你的隐私文件和应用
+
+- [App Lock](https://github.com/PranavPurwar/AppLock) `Shizuku` 一款现代开源 Android 应用程序储物柜，旨在保护您的隐私和敏感数据
 
 ### 娱乐
 - [Mihon](https://github.com/mihonapp/mihon) `Shizuku` 功能齐全的漫画阅读器 
@@ -123,6 +130,8 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
 
 - [DSU Sideloader](https://github.com/VegaBobo/DSU-Sideloader) `Shizuku/Root` 帮助用户通过DSU的Android功能轻松安装 GSI
 
+- [KeyAttestation](https://github.com/vvb2060/KeyAttestation) `Shizuku` 支持生成、保存、加载、解析和验证Android密钥和ID证明数据
+
 ### 网络
 - [CatShare](https://github.com/kmod-midori/CatShare) `Shizuku` 通过蓝牙发送和接收文件
 
@@ -155,7 +164,6 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
 
 ## 附注
 `Shizuku(Root)`: 需要 Shizuku 在 Root 模式下运行
-
 `Shizuku/Dhizuku/Root`: 支持 Shizuku/Dhizuku/Root 多种模式
 
 ## 星标历史
