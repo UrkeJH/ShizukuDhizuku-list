@@ -1,7 +1,7 @@
 > [!IMPORTANT]
 > 本项目只收集支持Shizuku或Dhizuku的开源软件
 > 
-> 部分中文介绍是英文机翻,可能有误,见谅
+> 部分中文介绍是机翻,可能有误,见谅
 
 
 ## 语言
@@ -87,9 +87,7 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
     <summary>相似软件</summary>
 
     1.[TachiyomiSY](https://github.com/jobobby04/TachiyomiSY)
-  
-    2.[TachiyomiAZ](https://github.com/az4521/TachiyomiAZ)
-  
+    2.[TachiyomiAZ](https://github.com/az4521/TachiyomiAZ) 
     3.[Aniyomi](https://github.com/aniyomiorg/aniyomi)
 
     </details>
@@ -126,9 +124,7 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
     <summary>相似软件</summary>
 
     1.[PI](https://github.com/SanmerApps/PI) `Shizuku/Root` 覆盖包请求程序和执行程序的包安装程序
-  
     2.[Install with Options](https://github.com/zacharee/InstallWithOptions) `Shizuku` 应用安装程序
-  
     3.[PackageInstaller](https://github.com/vvb2060/PackageInstaller) `Shizuku` 用于 Android 的轻量级但功能强大的软件包安装程序
 
     </details>
@@ -177,6 +173,8 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
 
 - [DetoxDroid](https://github.com/flxapps/DetoxDroid) `Shizuku` 使用手机而不是让手机利用你 
 
+- [DigiPaws](https://github.com/nethical6/digipaws) `Shizuku` 帮助用户减少屏幕成瘾
+
 </details>
 <details open>
 <summary style="font-size:18px">网络</summary>
@@ -217,6 +215,17 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
 
 - [ZukuLock](https://github.com/tiendnm/zukulock) `Shizuku` 快速打开或关闭屏幕
 
+- [RebootNya](https://github.com/daisukiKaffuChino/RebootNya) `Shizuku/Root` 一款简单而先进的重启应用程序
+
+</details>
+
+<details open>
+<summary style="font-size:18px">输入法</summary>
+
+- [KeyMapper](https://github.com/keymapperorg/KeyMapper) `Shizuku` 改变按钮在你设备上的作用
+
+- [XtMapper](https://github.com/Xtr126/XtMapper) `Shizuku` 适用于 Android x86 的键盘
+
 </details>
 
 ## 致谢
@@ -226,6 +235,3 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
 ## 附注
 `Shizuku(Root)`: 需要 Shizuku 在 Root 模式下运行
 `Shizuku/Dhizuku/Root`: 支持 Shizuku/Dhizuku/Root 多种模式
-
-## 星标历史
-[![Star History Chart](https://api.star-history.com/svg?repos=UrkeJH/ShizukuDhizuku-list&type=Timeline)](https://star-history.com/#UrkeJH/ShizukuDhizuku-list&Timeline)
