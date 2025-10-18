@@ -35,7 +35,13 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
 <summary style="font-size:18px">软件管理</summary>
 
 - [雹](https://github.com/aistra0528/Hail) `Shizuku/Dhizuku/Root` 一款用于冻结 Android 应用的自由软件
-    相似软件：[FreezeYou](https://github.com/FreezeYou/FreezeYou)
+
+    <details open>
+    <summary>相似软件</summary>
+
+    1.[FreezeYou](https://github.com/FreezeYou/FreezeYou)
+    
+    </details>
 
 - [Canta](https://github.com/samolego/Canta) `Shizuku` 在没有root权限的情况下卸载任何Android应用
 
@@ -87,7 +93,9 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
     <summary>相似软件</summary>
 
     1.[TachiyomiSY](https://github.com/jobobby04/TachiyomiSY)
+
     2.[TachiyomiAZ](https://github.com/az4521/TachiyomiAZ) 
+
     3.[Aniyomi](https://github.com/aniyomiorg/aniyomi)
 
     </details>
@@ -124,7 +132,9 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
     <summary>相似软件</summary>
 
     1.[PI](https://github.com/SanmerApps/PI) `Shizuku/Root` 覆盖包请求程序和执行程序的包安装程序
+
     2.[Install with Options](https://github.com/zacharee/InstallWithOptions) `Shizuku` 应用安装程序
+
     3.[PackageInstaller](https://github.com/vvb2060/PackageInstaller) `Shizuku` 用于 Android 的轻量级但功能强大的软件包安装程序
 
     </details>
