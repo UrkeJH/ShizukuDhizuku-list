@@ -173,7 +173,7 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
 
 - [LogFox](https://github.com/F0x1d/LogFox) `Shizuku` Android的LogCat阅读器
 
-- [Accounts](https://github.com/iamr0s/AndroidAccounts) `Shizuku` 删除已为用户注册账户的应用程序的软件包名称
+- [Accounts](https://github.com/iamr0s/AndroidAccounts) `Shizuku` 查看可能存在账户的应用
 
 - [DSU Sideloader](https://github.com/VegaBobo/DSU-Sideloader) `Shizuku/Root` 帮助用户通过DSU轻松安装 GSI
 
@@ -191,7 +191,7 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
 
 - [Kettu](https://github.com/C0C0B01/Kettu) `Shizuku`  Discord 模组工具
 
-- [MastodonRedirect](https://github.com/zacharee/MastodonRedirect) `Shizuku` 用于在您首选的 Mastodon 或 Lemmy 客户端中自动启动联合链接
+- [MastodonRedirect](https://github.com/zacharee/MastodonRedirect) `Shizuku` 解决Mastodon和Lemmy等联邦社交平台的深层链接问题，让用户能便捷地用首选客户端打开链接
 
 - [TxtNet-Browser](https://github.com/lukeaschenbrenner/TxtNet-Browser) `Shizuku` 通过短信浏览网页，无需 WiFi 或移动数据
 
