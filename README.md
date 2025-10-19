@@ -45,44 +45,44 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
 
 - [Canta](https://github.com/samolego/Canta) `Shizuku` 在没有root权限的情况下卸载任何Android应用
 
-- [Package Manager](https://github.com/SmartPack/PackageManager) `Shizuku` ： 非常强大的应用程序来管理安装在android设备上的系统和用户应用程序
+- [Package Manager](https://github.com/SmartPack/PackageManager) `Shizuku` ： 管理安装在android设备上的系统和app
 
 - [Island](https://github.com/oasisfeng/island) `Shizuku` 隔离和克隆应用程序以保护隐私和并行运行
 
-- [Inure](https://github.com/Hamza417/Inure) `Shizuku` 一个优雅的Android应用程序管理器
+- [Inure](https://github.com/Hamza417/Inure) `Shizuku` 优雅的Android应用程序管理器
 
-- [Blocker](https://github.com/lihenggui/blocker) `Shizuku` 一款操作Android应用程序四大组件的程序
+- [Blocker](https://github.com/lihenggui/blocker) `Shizuku/Root` 操作Android应用程序四大组件的程序
 
-- [Shappky](https://github.com/YasserNull/shappky) `Shizuku` 阻止后台应用程序使用Shizuku权限,提高设备性能
+- [Shappky](https://github.com/YasserNull/shappky) `Shizuku` kill或阻止后台应用程序,提高设备性能
 
 - [Thor](https://github.com/trinadhthatakula/Thor) `Shizuku` 应用程序管理器
 
-- [MMRL](https://github.com/MMRLApp/MMRL) `Shizuku(Root)` 管理您自己的模块存储库
+- [MMRL](https://github.com/MMRLApp/MMRL) `Shizuku(Root)` 管理模块存储库
 
 </details>
 <details open>
   
 <summary style="font-size:18px">终端</summary>
 
-- [aShell You](https://github.com/DP-Hridayan/aShellYou) `Shizuku/Root` Material You 重新设计的 aShell 应用程序
+- [aShell You](https://github.com/DP-Hridayan/aShellYou) `Shizuku/Root` Material You 风格的 aShell 应用程序
 
-- [ReTerminal](https://github.com/RohitKushvaha01/ReTerminal) `Shizuku` 一款时尚的、受Material3启发的终端模拟器
+- [ReTerminal](https://github.com/RohitKushvaha01/ReTerminal) `Shizuku` 时尚的、Material3风格的终端模拟器
 
 </details>
 <details open>
 <summary style="font-size:18px">文件管理</summary>
 
-- [Amarok-Hider](https://github.com/deltazefiro/Amarok-Hider) `Shizuku/Dhizuku/Root` Amarok 是一款轻量级隐私保护工具，一键隐藏你的隐私文件和应用
+- [Amarok-Hider](https://github.com/deltazefiro/Amarok-Hider) `Shizuku/Dhizuku/Root` 轻量级隐私保护工具，一键隐藏你的隐私文件和应用
 
-- [SD Maid SE](https://github.com/d4rken-org/sdmaid-se) `Shizuku/Root` 专门用于维护的Android文件管理工具，释放空间和删除不需要的数据
+- [SD Maid SE](https://github.com/d4rken-org/sdmaid-se) `Shizuku/Root` 维护的Android文件管理工具，释放空间和删除不需要的数据
 
 </details>
 <details open>
 <summary style="font-size:18px">隐私保护</summary>
 
-- [Amarok-Hider](https://github.com/deltazefiro/Amarok-Hider) `Shizuku/Dhizuku/Root` Amarok 是一款轻量级隐私保护工具，一键隐藏你的隐私文件和应用
+- [Amarok-Hider](https://github.com/deltazefiro/Amarok-Hider) `Shizuku/Dhizuku/Root` 轻量级隐私保护工具，一键隐藏你的隐私文件和应用
 
-- [App Lock](https://github.com/PranavPurwar/AppLock) `Shizuku` 一款现代开源 Android 应用程序储物柜，旨在保护您的隐私和敏感数据
+- [App Lock](https://github.com/PranavPurwar/AppLock) `Shizuku` Android 应用程序储物柜，旨在保护您的隐私和敏感数据
 
 </details>
 <details open>
