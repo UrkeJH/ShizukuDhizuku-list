@@ -114,7 +114,7 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
 
 - [SystemUI Tuner](https://github.com/zacharee/Tweaker) `Shizuku` 查看和修改Android设备上隐藏设置的应用程序
 
-- [ShizuTools](https://github.com/legendsayantan/ShizuTools) `Shizuku` 易于使用的工具来超越 Android 系统允许的控制级别
+- [ShizuTools](https://github.com/legendsayantan/ShizuTools) `Shizuku` 突破 Android 系统默认权限限制，提供多种实用系统管理功能
 
 - [Tarnhelm](https://github.com/lz233/Tarnhelm) `Shizuku` 清理共享链接的跟踪，支持自定义URL重写规则
 
@@ -131,17 +131,17 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
     <details open>
     <summary>相似软件</summary>
 
-    1.[PI](https://github.com/SanmerApps/PI) `Shizuku/Root` 覆盖包请求程序和执行程序的包安装程序
+    1.[PI](https://github.com/SanmerApps/PI) `Shizuku/Root` 覆盖系统默认安装程序和执行app安装程序
 
     2.[Install with Options](https://github.com/zacharee/InstallWithOptions) `Shizuku` 应用安装程序
 
-    3.[PackageInstaller](https://github.com/vvb2060/PackageInstaller) `Shizuku` 用于 Android 的轻量级但功能强大的软件包安装程序
+    3.[PackageInstaller](https://github.com/vvb2060/PackageInstaller) `Shizuku` Android 的轻量级但功能强大的软件包安装程序
 
     </details>
 
-- [Obtainium](https://github.com/ImranR98/Obtainium) `Shizuku` 直接从源代码获取Android应用程序更新
+- [Obtainium](https://github.com/ImranR98/Obtainium) `Shizuku` 直接从源代码获取app更新
 
-- [FFUpdater](https://github.com/Tobi823/ffupdater) `Shizuku` 更新隐私友好的浏览器
+- [FFUpdater](https://github.com/Tobi823/ffupdater) `Shizuku` 更新注重隐私的浏览器和邮箱app
 
 - [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore) `Shizuku/Root` Google Play 商店的开源替代品
 
@@ -156,8 +156,6 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
 
 - [gkd](https://github.com/gkd-kit/gkd) `Shizuku` 自定义屏幕点击APP
 
-- [Anywhere](https://github.com/zhaobozhen/Anywhere-) `Shizuku` 活动和shell快捷方式文件夹
-
 - [PhoneProfilesPlus](https://github.com/henrichg/PhoneProfilesPlus) `Shizuku` 允许自动或一键配置设备以适应生活情况
 
 - [Geto](https://github.com/JackEblan/Geto) `Shizuku` 启动特定应用时自动更改设备设置
@@ -170,14 +168,14 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
 
 - [AndroidLowLevelDetector](https://github.com/imknown/AndroidLowLevelDetector) `Shizuku` 检测Treble,GSI,Mainline,APEX,system-as-root(SAR),A/B等
 
-- [lspatch](https://github.com/JingMatrix/LSPatch) `Shizuku` LSPosed框架的免root实现 
-    原项目：[lspatch(已停更)](https://github.com/LSPosed/LSPatch)
+- [lspatch](https://github.com/JingMatrix/LSPatch) `Shizuku` 免root实现Xposed注入 
+原项目：[lspatch(已停更)](https://github.com/LSPosed/LSPatch)
 
 - [LogFox](https://github.com/F0x1d/LogFox) `Shizuku` Android的LogCat阅读器
 
 - [Accounts](https://github.com/iamr0s/AndroidAccounts) `Shizuku` 删除已为用户注册账户的应用程序的软件包名称
 
-- [DSU Sideloader](https://github.com/VegaBobo/DSU-Sideloader) `Shizuku/Root` 帮助用户通过DSU的Android功能轻松安装 GSI
+- [DSU Sideloader](https://github.com/VegaBobo/DSU-Sideloader) `Shizuku/Root` 帮助用户通过DSU轻松安装 GSI
 
 - [KeyAttestation](https://github.com/vvb2060/KeyAttestation) `Shizuku` 支持生成、保存、加载、解析和验证Android密钥和ID证明数据
 
@@ -195,9 +193,9 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
 
 - [MastodonRedirect](https://github.com/zacharee/MastodonRedirect) `Shizuku` 用于在您首选的 Mastodon 或 Lemmy 客户端中自动启动联合链接
 
-- [TxtNet-Browser](https://github.com/lukeaschenbrenner/TxtNet-Browser) `Shizuku` 通过短信浏览网页，无需 WiFi 或移动数据！
+- [TxtNet-Browser](https://github.com/lukeaschenbrenner/TxtNet-Browser) `Shizuku` 通过短信浏览网页，无需 WiFi 或移动数据
 
-- [delta](https://github.com/supershadoe/delta) `Shizuku` 使用 Shizuku 的热点管理器
+- [delta](https://github.com/supershadoe/delta) `Shizuku` 热点管理器
 
 </details>
 <details open>
@@ -221,7 +219,7 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
 
 - [dumpsys-battery-manager](https://github.com/superisuer/dumpsys-battery-manager) `Shizuku` 通过 dumpsys 与接口更改电池值
 
-- [ScreenOff](https://github.com/WuDi-ZhanShen/ScreenOff) `Shizuku` 通过 Shizuku 控制您的 Android 屏幕 显示或不显示
+- [ScreenOff](https://github.com/WuDi-ZhanShen/ScreenOff) `Shizuku` 控制您的 Android 屏幕 显示或不显示
 
 - [ZukuLock](https://github.com/tiendnm/zukulock) `Shizuku` 快速打开或关闭屏幕
 
@@ -232,7 +230,7 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
 <details open>
 <summary style="font-size:18px">输入法</summary>
 
-- [KeyMapper](https://github.com/keymapperorg/KeyMapper) `Shizuku` 改变按钮在你设备上的作用
+- [KeyMapper](https://github.com/keymapperorg/KeyMapper) `Shizuku` 改变键盘按钮在你设备上的作用
 
 - [XtMapper](https://github.com/Xtr126/XtMapper) `Shizuku` 适用于 Android x86 的键盘
 
