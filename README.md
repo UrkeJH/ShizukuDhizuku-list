@@ -82,7 +82,7 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
 
 - [Amarok-Hider](https://github.com/deltazefiro/Amarok-Hider) `Shizuku/Dhizuku/Root` 轻量级隐私保护工具，一键隐藏你的隐私文件和应用
 
-- [App Lock](https://github.com/PranavPurwar/AppLock) `Shizuku` Android 应用程序储物柜，旨在保护您的隐私和敏感数据
+- [App Lock](https://github.com/PranavPurwar/AppLock) `Shizuku` 开源 Android 应用锁工具，主打隐私保护与敏感数据防护
 
 </details>
 <details open>
