@@ -39,7 +39,7 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
     <details open>
     <summary>相似软件</summary>
 
-    - [FreezeYou](https://github.com/FreezeYou/FreezeYou) `Shizuku/Dhizuku/Root` 应用冻结工具  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/FreezeYou/FreezeYou?style=flat"></sub>
+    - [FreezeYou](https://github.com/FreezeYou/FreezeYou) `Shizuku/Root` 应用冻结工具  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/FreezeYou/FreezeYou?style=flat"></sub>
 
     </details>
 
