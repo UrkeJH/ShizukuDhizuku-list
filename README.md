@@ -28,6 +28,8 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
 - [Shizuku](https://github.com/yangFenTuoZi/Shizuku)
 
 - [Shizuku](https://github.com/pixincreate/Shizuku)
+
+- [Shizuku](https://github.com/thedjchi/Shizuku)
 </details>
 
 ## 支持软件
