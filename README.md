@@ -25,11 +25,11 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
 <details>
 <summary>Shizuku改版</summary>
 
-- [Shizuku](https://github.com/yangFenTuoZi/Shizuku)
+- [Shizuku(yangFenTuoZi)](https://github.com/yangFenTuoZi/Shizuku)
 
-- [Shizuku](https://github.com/pixincreate/Shizuku)
+- [Shizuku(pixincreate)](https://github.com/pixincreate/Shizuku)
 
-- [Shizuku](https://github.com/thedjchi/Shizuku)
+- [Shizuku(thedjchi)](https://github.com/thedjchi/Shizuku)
 </details>
 
 ## 支持软件
@@ -79,6 +79,8 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
 
 - [SD Maid SE](https://github.com/d4rken-org/sdmaid-se) `Shizuku/Root` 维护的Android文件管理工具，释放空间和删除不需要的数据  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/d4rken-org/sdmaid-se?style=flat"></sub>
 
+- [fluffy](https://github.com/mlm-games/fluffy) `Shizuku` 具有强大的存档支持和适合 Android TV 界面的文件管理器 <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/mlm-games/fluffy?style=flat"></sub>
+
 </details>
 
 <details open>
@@ -98,13 +100,13 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
     <details open>
     <summary>相似软件</summary>
 
-    - [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) `Shizuku` Tachiyomi分支版本  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/jobobby04/TachiyomiSY?style=flat"></sub>
+    - [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) `Shizuku`  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/jobobby04/TachiyomiSY?style=flat"></sub>
 
 
-    - [TachiyomiAZ](https://github.com/az4521/TachiyomiAZ) `Shizuku` Tachiyomi分支版本  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/az4521/TachiyomiAZ?style=flat"></sub>
+    - [TachiyomiAZ](https://github.com/az4521/TachiyomiAZ) `Shizuku`   <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/az4521/TachiyomiAZ?style=flat"></sub>
 
 
-    - [Aniyomi](https://github.com/aniyomiorg/aniyomi) `Shizuku` 支持动画的Tachiyomi分支  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/aniyomiorg/aniyomi?style=flat"></sub>
+    - [Aniyomi](https://github.com/aniyomiorg/aniyomi) `Shizuku`   <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/aniyomiorg/aniyomi?style=flat"></sub>
 
     </details>
 
@@ -160,8 +162,14 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
 - [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore) `Shizuku/Root` Google Play 商店的开源替代品
 
 - [Droid-ify](https://github.com/Droid-ify/client) `Shizuku/Root` 第三方F-Droid 客户端  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Droid-ify/client?style=flat"></sub>
+    <details open>
+    <summary>相似软件</summary>
 
-</details>
+    - [flicky](https://github.com/mlm-games/flicky) `Shizuku` 第三方 F-Droid 客户端(适用于电视) <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/mlm-games/flicky?style=flat"></sub>
+
+    </details>
+
+
 
 <details open>
 <summary style="font-size:18px">自动化</summary>
