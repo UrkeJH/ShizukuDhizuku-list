@@ -171,7 +171,7 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
 
     - [flicky](https://github.com/mlm-games/flicky) `Shizuku` 第三方 F-Droid 客户端(适用于电视) <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/mlm-games/flicky?style=flat"></sub>
 
-    - [Neo-Store](https://github.com/NeoApplications/Neo-Store) `Shizuku/Root` 现代且功能丰富的 F-Droid 客户端 <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/NeoApplications/Neo-Store=flat"></sub>
+    - [Neo-Store](https://github.com/NeoApplications/Neo-Store) `Shizuku/Root` 现代且功能丰富的 F-Droid 客户端 <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/NeoApplications/Neo-Store?style=flat"></sub>
 
     </details>
 
