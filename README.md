@@ -89,6 +89,10 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
 - [Amarok-Hider](https://github.com/deltazefiro/Amarok-Hider) `Shizuku/Dhizuku/Root` 轻量级隐私保护工具，一键隐藏你的隐私文件和应用  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/deltazefiro/Amarok-Hider?style=flat"></sub>
 
 - [App Lock](https://github.com/PranavPurwar/AppLock) `Shizuku` 开源 Android 应用锁工具，主打隐私保护与敏感数据防护  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/PranavPurwar/AppLock?style=flat"></sub>
+  
+- [KeyAttestation](https://github.com/vvb2060/KeyAttestation) `Shizuku` 支持生成、保存、加载、解析和验证Android密钥和ID证明数据  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/vvb2060/KeyAttestation?style=flat"></sub>
+
+- [PrivacyFlip](https://github.com/dorumrr/privacyflip) `Shizuku/Root` Android 设备的自动锁定/解锁隐私控制  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/dorumrr/privacyflip?style=flat"></sub>
 
 </details>
 
@@ -110,7 +114,7 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
 
     </details>
 
-- [BilibiliCacheVideoMerge](https://github.com/molihuan/BilibiliCacheVideoMerge) `Shizuku` Bilibili缓存视频合并工具  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/molihuan/BilibiliCacheVideoMerge?style=flat"></sub>
+- [HLB站缓存合并](https://github.com/molihuan/hlbmerge_flutter) `Shizuku` Bilibili缓存视频合并工具  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/molihuan/hlbmerge_flutter?style=flat"></sub>
 
 </details>
 
@@ -167,6 +171,8 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
 
     - [flicky](https://github.com/mlm-games/flicky) `Shizuku` 第三方 F-Droid 客户端(适用于电视) <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/mlm-games/flicky?style=flat"></sub>
 
+    - [Neo-Store](https://github.com/NeoApplications/Neo-Store) `Shizuku/Root` 现代且功能丰富的 F-Droid 客户端 <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/NeoApplications/Neo-Store=flat"></sub>
+
     </details>
 
 
@@ -199,8 +205,6 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
 
 - [DSU Sideloader](https://github.com/VegaBobo/DSU-Sideloader) `Shizuku/Root` 帮助用户通过DSU轻松安装 GSI  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/VegaBobo/DSU-Sideloader?style=flat"></sub>
 
-- [KeyAttestation](https://github.com/vvb2060/KeyAttestation) `Shizuku` 支持生成、保存、加载、解析和验证Android密钥和ID证明数据  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/vvb2060/KeyAttestation?style=flat"></sub>
-
 - [DetoxDroid](https://github.com/flxapps/DetoxDroid) `Shizuku` 使用手机而不是让手机利用你   <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/flxapps/DetoxDroid?style=flat"></sub>
 
 - [DigiPaws](https://github.com/nethical6/digipaws) `Shizuku` 帮助用户减少屏幕成瘾  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/nethical6/digipaws?style=flat"></sub>
@@ -220,6 +224,7 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
 
 - [delta](https://github.com/supershadoe/delta) `Shizuku` 热点管理器  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/supershadoe/delta?style=flat"></sub>
 
+- [ShizuWall](https://github.com/AhmetCanArslan/ShizuWall) `Shizuku` 轻量级、注重隐私的 Android 防火墙应用程序  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/AhmetCanArslan/ShizuWall?style=flat"></sub>
 </details>
 
 <details open>
