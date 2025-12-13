@@ -49,7 +49,11 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
 
 - [Package Manager](https://github.com/SmartPack/PackageManager) `Shizuku` 管理安装在android设备上的系统和app  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/SmartPack/PackageManager?style=flat"></sub>
 
-- [Island](https://github.com/oasisfeng/island) `Shizuku` 隔离和克隆应用程序以保护隐私和并行运行  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/oasisfeng/island?style=flat"></sub>
+- [Island](https://github.com/oasisfeng/island) `Shizuku/Dhizuku(DAX)` 隔离和克隆应用程序以保护隐私和并行运行  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/oasisfeng/island?style=flat"></sub>
+    <details open>
+    <summary>注意事项</summary>
+    Island在Dhizuku激活情况下,可能无法使用,但是有概率通过卡bug使用(具体教程可在酷安等平台寻找)
+    </details>
 
 - [Inure](https://github.com/Hamza417/Inure) `Shizuku` 优雅的Android应用程序管理器  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Hamza417/Inure?style=flat"></sub>
 
@@ -116,6 +120,7 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
 
 - [HLB站缓存合并](https://github.com/molihuan/hlbmerge_flutter) `Shizuku` Bilibili缓存视频合并工具  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/molihuan/hlbmerge_flutter?style=flat"></sub>
 
+- [BILIBILIAS](https://github.com/1250422131/bilibilias) `Shizuku` 第三方的B站（哔哩哔哩）视频缓存工具  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/1250422131/bilibilias?style=flat"></sub>
 </details>
 
 <details open>
@@ -138,6 +143,11 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
 
 - [Krude](https://github.com/KusStar/krude) `Shizuku` 小而美的应用启动器  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/KusStar/krude?style=flat"></sub>
 
+- [DroidOS](https://github.com/Katsuyamaki/DroidOS) `Shizuku` 拼贴窗口管理器，三星DEX替代品，弹出式应用启动器  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Katsuyamaki/DroidOS?style=flat"></sub>
+
+- [Extendroid](https://github.com/legendsayantan/Extendroid) `Shizuku` Android 多任务管理器，支持桌面式多窗口和远程访问 <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/legendsayantan/Extendroid?style=flat"></sub>
+
+- [Carrier Vanity Name](https://github.com/nullbytepl/CarrierVanityName) `Shizuku` 在未root的安卓设备上更改运营商名称 <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/nullbytepl/CarrierVanityName?style=flat"></sub>
 </details>
 
 <details open>
@@ -171,7 +181,7 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
 
     - [flicky](https://github.com/mlm-games/flicky) `Shizuku` 第三方 F-Droid 客户端(适用于电视) <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/mlm-games/flicky?style=flat"></sub>
 
-    - [Neo-Store](https://github.com/NeoApplications/Neo-Store) `Shizuku/Root` 现代且功能丰富的 F-Droid 客户端 <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/NeoApplications/Neo-Store?style=flat"></sub>
+    - [Neo-Store](https://github.com/NeoApplications/Neo-Store) `Shizuku/Root` 现代且功能丰富的 F-Droid 客户端 <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/NeoApplications/Neo-Store=flat"></sub>
 
     </details>
 
@@ -209,6 +219,7 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
 
 - [DigiPaws](https://github.com/nethical6/digipaws) `Shizuku` 帮助用户减少屏幕成瘾  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/nethical6/digipaws?style=flat"></sub>
 
+- [Operit](https://github.com/AAswordman/Operit) `Shizuku` 移动端首个功能完备的 AI 智能助手应用,可以用Shizuku执行命令  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/AAswordman/Operit?style=flat"></sub>
 </details>
 
 <details open>
@@ -273,5 +284,7 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
 
 ## 附注
 `Shizuku(Root)`: 需要 Shizuku 在 Root 模式下运行
+
+`Dhizuku(DAX)`: 软件注入DAX模块后,可支持Dhizuku
 
 `Shizuku/Dhizuku/Root`: 支持 Shizuku/Dhizuku/Root 多种模式
