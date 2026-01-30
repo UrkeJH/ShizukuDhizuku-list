@@ -65,6 +65,9 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
 
 - [MMRL](https://github.com/MMRLApp/MMRL) `Shizuku(Root)` 管理模块存储库  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/MMRLApp/MMRL?style=flat"></sub>
 
+- [AppControlX](https://github.com/risunCode/AppControl-X) `Shizuku/Root` 一款强大的安卓应用，用于控制应用行为、系统监控和设备管理  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/risunCode/AppControl-X?style=flat"></sub>
+
+
 </details>
 
 <details open>
@@ -127,6 +130,11 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
 <summary style="font-size:18px">设备所有者</summary>
 
 - [OwnDroid](https://github.com/BinTianqi/OwnDroid) `Shizuku/Dhizuku` 使用安卓Device owner特权管理你的设备  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/BinTianqi/OwnDroid?style=flat"></sub>
+    <details open>
+    <summary>相似软件</summary>
+
+    - [MDPC](https://github.com/MrRare2/MDPC) `Shizuku` OwnDroid 的分支,增加了一些功能  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/MrRare2/MDPC?style=flat"></sub>
+    </details>
 
 </details>
 
@@ -207,8 +215,6 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
 
 - [AndroidLowLevelDetector](https://github.com/imknown/AndroidLowLevelDetector) `Shizuku` 检测Treble,GSI,Mainline,APEX,system-as-root(SAR),A/B等  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/imknown/AndroidLowLevelDetector?style=flat"></sub>
 
-- [lspatch](https://github.com/JingMatrix/LSPatch) `Shizuku` 免root实现Xposed注入   <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/JingMatrix/LSPatch?style=flat"></sub>
-
 - [LogFox](https://github.com/F0x1d/LogFox) `Shizuku` Android的LogCat阅读器  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/F0x1d/LogFox?style=flat"></sub>
 
 - [Accounts](https://github.com/iamr0s/AndroidAccounts) `Shizuku` 查看可能存在账户的应用  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/iamr0s/AndroidAccounts?style=flat"></sub>
@@ -275,6 +281,23 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
 - [KeyMapper](https://github.com/keymapperorg/KeyMapper) `Shizuku` 改变键盘按钮在你设备上的作用  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/keymapperorg/KeyMapper?style=flat"></sub>
 
 - [XtMapper](https://github.com/Xtr126/XtMapper) `Shizuku` 适用于 Android x86 的键盘  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Xtr126/XtMapper?style=flat"></sub>
+
+- [KeySync](https://github.com/aka-munan/keysync) `Shizuku` 允许用户使用外接键盘和鼠标玩游戏  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/aka-munan/keysync?style=flat"></sub>
+
+</details>
+
+<details open>
+<summary style="font-size:18px">补丁</summary>
+
+- [lspatch](https://github.com/JingMatrix/LSPatch) `Shizuku` 免root实现Xposed注入   <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/JingMatrix/LSPatch?style=flat"></sub>
+    <details open>
+    <summary>相似软件</summary>
+
+    - [NPatch](https://github.com/7723mod/NPatch) `Shizuku` 复刻自LSPatch,以LSPosed为基础的免root的Xposed框架   <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/7723mod/NPatch?style=flat"></sub>
+
+    </details>
+
+- [Universal ReVanced Manager](https://github.com/Jman-Github/Universal-ReVanced-Manager) `Shizuku` ReVanced 补丁工具,包含一些额外功能   <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Jman-Github/Universal-ReVanced-Manager?style=flat"></sub>
 
 </details>
 
