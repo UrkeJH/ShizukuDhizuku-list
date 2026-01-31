@@ -55,6 +55,13 @@ Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进�
     Island在Dhizuku激活情况下,可能无法使用,但是有概率通过卡bug使用(具体教程可在酷安等平台寻找)
     </details>
 
+    <details open>
+    <summary>相似软件</summary>
+
+    - [Insular](https://gitlab.com/secure-system/Insular) `Shizuku/Dhizuku(DAX)` island的分支软件
+  
+    </details>
+
 - [Inure](https://github.com/Hamza417/Inure) `Shizuku` 优雅的Android应用程序管理器  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Hamza417/Inure?style=flat"></sub>
 
 - [Blocker](https://github.com/lihenggui/blocker) `Shizuku/Root` 操作Android应用程序四大组件的程序  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/lihenggui/blocker?style=flat"></sub>
